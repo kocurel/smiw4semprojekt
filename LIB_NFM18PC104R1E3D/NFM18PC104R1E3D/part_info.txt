@@ -1,0 +1,9 @@
+Manufacturer=Murata Electronics
+PartNumber=NFM18PC104R1E3D
+PartCategory=Filter
+PackageCategory=Other
+PinCount=4
+Version=3.2
+Released=2025-01-09 08:42:20
+Downloaded=2025-06-29 22:27:28
+3D=Y

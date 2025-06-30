@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP NFM18PC104R1E3D
+D Filter: anti-interference; SMD; 0603; 25VDC; +/-20%; 100nF; 180mm
+K
+F https://search.murata.co.jp/Ceramy/image/img/A01X/3TERMINAL-EN.pdf
+$ENDCMP
+#
+#End Doc Library

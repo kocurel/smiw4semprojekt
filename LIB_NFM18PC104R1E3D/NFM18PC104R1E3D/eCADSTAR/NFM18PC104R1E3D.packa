@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "NFM18PC104R1E3D"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2025-01-09-08:42:20)
+    (mountForm default
+        (footprintRef "NFM18PC104R1E3D")
+        (spec "System")
+    )
+)
