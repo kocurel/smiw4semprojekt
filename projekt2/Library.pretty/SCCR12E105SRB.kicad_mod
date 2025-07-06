@@ -1,0 +1,118 @@
+(footprint "SCCR12E105SRB"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(property "Reference" "REF**"
+		(at 0 -1.6 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "07bee9ad-1a6a-446a-a101-cc8d79961198")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+		)
+	)
+	(property "Value" "SCCR12E105SRB"
+		(at 0 1.9 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "47ec3788-6c74-4e83-aef8-19827916ed47")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "61233b2a-9dd9-4db8-a661-09f8d0011cc4")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "b8c0fb89-3058-404e-b8f2-fa5e888b51f1")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr smd)
+	(fp_rect
+		(start -3.5 -1)
+		(end 3.5 1)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(fill no)
+		(layer "F.SilkS")
+		(uuid "cc8fe751-da3d-44e4-bb9e-eac1654688da")
+	)
+	(fp_text user "+"
+		(at -4.4 -1.1 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "0d397174-0668-4ce6-a796-e145af36e440")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+			(justify left bottom)
+		)
+	)
+	(fp_text user "${REFERENCE}"
+		(at 0 3.5 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "bfe103c1-28c6-43a2-91c7-629b553e2339")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(pad "1" thru_hole roundrect
+		(at -1.9 0)
+		(size 2.6 1.5)
+		(drill 0.95
+			(offset -0.1 0)
+		)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(roundrect_rratio 0.15)
+		(thermal_bridge_angle 45)
+		(uuid "7ba74841-c1a5-416e-8f1c-bb0867db9316")
+	)
+	(pad "2" thru_hole roundrect
+		(at 1.9 0)
+		(size 2.6 1.45)
+		(drill 0.95
+			(offset 0.1 0.025)
+		)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(roundrect_rratio 0.15)
+		(thermal_bridge_angle 45)
+		(uuid "d118014c-f7ea-426e-a096-5a115900d97d")
+	)
+	(embedded_fonts no)
+)

@@ -1,0 +1,18 @@
+### Footprint positions - created on 2025-07-06T23:33:47+0200 ###
+### Printed by KiCad version 9.0.2
+## Unit = mm, Angle = deg.
+## Side : bottom
+# Ref     Val       Package                                           PosX       PosY       Rot  Side
+C11       100n      C0805F104K1RACAUTO                            101.5000  -102.0000  -90.0000  bottom
+R7        5k1       R_0201_0603Metric_Pad0.64x0.40mm_HandSolder    92.0000  -109.0000    0.0000  bottom
+R8        5k1       R_0201_0603Metric_Pad0.64x0.40mm_HandSolder    87.5000  -109.0000  180.0000  bottom
+R9        300       R_0201_0603Metric_Pad0.64x0.40mm_HandSolder    99.5000  -101.5000   90.0000  bottom
+R10       20        R_0201_0603Metric_Pad0.64x0.40mm_HandSolder    97.5000   -99.0000  -90.0000  bottom
+R11       6m        WFCP04026L000FE66                              99.5000  -103.0000  180.0000  bottom
+R12       1k        R_0201_0603Metric_Pad0.64x0.40mm_HandSolder   101.5000   -99.0000  -90.0000  bottom
+R13       600       R_0201_0603Metric_Pad0.64x0.40mm_HandSolder    93.5000  -100.5000  180.0000  bottom
+R14       600       R_0201_0603Metric_Pad0.64x0.40mm_HandSolder    88.5000  -100.5000    0.0000  bottom
+R15       88k       R_0201_0603Metric_Pad0.64x0.40mm_HandSolder    94.5000   -82.0000   90.0000  bottom
+R16       12k       R_0201_0603Metric_Pad0.64x0.40mm_HandSolder    94.5000   -85.0000   90.0000  bottom
+R17       48k       R_0201_0603Metric_Pad0.64x0.40mm_HandSolder    88.0000   -83.5000  180.0000  bottom
+## End
