@@ -1,4 +1,4 @@
-25618591395204055
+25627348095338741
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -67872,6 +67872,13 @@ Library
 2
 2
 Library
+BQ29801
+
+
+0
+8
+8
+Library
 Bez_nazwy_1
 
 
@@ -67880,6 +67887,13 @@ Bez_nazwy_1
 0
 Library
 C0805F104K1RACAUTO
+
+
+0
+2
+2
+Library
+C_ELEC10u5PH2D5
 
 
 0
@@ -67904,8 +67918,15 @@ M5STAMP S3
 
 
 0
-68
-68
+72
+28
+Library
+RTF016N05MOSFET
+
+
+0
+3
+3
 Library
 SCCR12E105SRB
 
@@ -67919,7 +67940,14 @@ SCD42_SEN
 SCD42-D-R2 
 0
 21
-21
+6
+Library
+SON65P300X300X100-9N
+
+
+0
+13
+13
 Library
 SOP8
 
@@ -67941,6 +67969,13 @@ stamp-s3,esp32-s3
 0
 0
 0
+Library
+WFCP04026L000FE66
+Current Sense Resistors - SMD 6mOhms 1% .25w
+
+0
+2
+2
 Library
 green diode
 

@@ -493,7 +493,7 @@
       "idf": "",
       "netlist": "./",
       "plot": "",
-      "pos_files": "",
+      "pos_files": "out/",
       "specctra_dsn": "",
       "step": "projekt1.step",
       "svg": "",
@@ -621,11 +621,7 @@
     ],
     [
       "d7c7b31c-5e9d-4fbe-918f-cf65aa5b9702",
-      "zasilanie"
-    ],
-    [
-      "00c2edfa-8a47-4e90-99a0-8fa2e34371fb",
-      "czujnik"
+      "Untitled Sheet"
     ]
   ],
   "text_variables": {}
